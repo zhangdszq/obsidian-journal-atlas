@@ -1,0 +1,10 @@
+{
+  "id": "journal-atlas",
+  "name": "Journal Atlas",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Explore daily and weekly notes with yearly heatmaps, a monthly calendar, and section tracking.",
+  "author": "zhangdszq",
+  "authorUrl": "https://github.com/zhangdszq",
+  "isDesktopOnly": false
+}
