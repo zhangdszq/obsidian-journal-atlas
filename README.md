@@ -38,3 +38,7 @@ The current interface and default section names are in Chinese. Section names an
 ## Acknowledgment
 
 The calendar and week navigation were inspired by [Calendar for Obsidian](https://github.com/liamcain/obsidian-calendar-plugin).
+
+## License
+
+Journal Atlas is available under the [MIT License](LICENSE).
