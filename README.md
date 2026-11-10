@@ -2,6 +2,8 @@
 
 Journal Atlas is an Obsidian plugin for reviewing daily and weekly notes through GitHub-style yearly heatmaps, a monthly calendar, and section-by-section tracking. It reads Markdown locally and can run alongside Calendar.
 
+![Journal Atlas dashboard showing the yearly heatmap, monthly calendar, and note section status](screenshots/journal-atlas-dashboard.png)
+
 ## Install
 
 1. Download the ZIP from [Releases](https://github.com/zhangdszq/obsidian-journal-atlas/releases) and extract it.
